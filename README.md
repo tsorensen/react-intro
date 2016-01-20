@@ -52,7 +52,6 @@ There is an offical React.js [Chrome extension](https://chrome.google.com/websto
 ###### Maintained by Facebook, growing community
 React was first developed internally by Facebook, but it is now open source.  After using it internally for a while, the engineers at Facebook wanted to share what they had created with the world.  There is now a large and growing community of React developers, which is great because it is easy to find free resources, tutorials, help, etc., for getting started.  
 ## Demo
-Short React demo below by Brian Hefter
 <p data-height="268" data-theme-id="0" data-slug-hash="gnfew" data-default-tab="result" data-user="bhefter" class='codepen'>See the Pen <a href='http://codepen.io/bhefter/pen/gnfew/'>gnfew</a> by Brian Hefter (<a href='http://codepen.io/bhefter'>@bhefter</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
