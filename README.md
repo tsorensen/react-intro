@@ -47,10 +47,14 @@ When data upstream is updated or changed, the components that are using that dat
 React actually does great with SEO.  A big issue with some JavaScript frameworks is that they are not SEO friendly.  While improvements in this area have been made in recent years, it can still be hard for search engines to read JavaScript-intensive web apps.  React stands out here because you can run React.js on the server - allowing the virtual DOM to be rendered and returned to the browser as a regular web page.
 
 ###### Dev Tools
-There is an offical React.js Chrome extension made specifically for developing apps with React.  It not only helps with debugging - it also lets you look directly at the virtual DOM as if you were browsing a regular DOM tree.
+There is an offical React.js [Chrome extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) and [Mozilla add-on](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) made specifically for developing apps with React.  It not only helps with debugging - it also lets you look directly at the virtual DOM as if you were browsing a regular DOM tree.
 
 ###### Maintained by Facebook, growing community
 React was first developed internally by Facebook, but it is now open source.  After using it internally for a while, the engineers at Facebook wanted to share what they had created with the world.  There is now a large and growing community of React developers, which is great because it is easy to find free resources, tutorials, help, etc., for getting started.  
+## Demo
+Short React demo below by Brian Hefter
+<p data-height="268" data-theme-id="0" data-slug-hash="gnfew" data-default-tab="result" data-user="bhefter" class='codepen'>See the Pen <a href='http://codepen.io/bhefter/pen/gnfew/'>gnfew</a> by Brian Hefter (<a href='http://codepen.io/bhefter'>@bhefter</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ## How do I get started?
 The [React website](https://facebook.github.io/react/index.html) has a great [getting started guide](https://facebook.github.io/react/docs/getting-started.html) and [tutorial](https://facebook.github.io/react/docs/tutorial.html).  They provide you with instructions on how to install it using NPM or by downloading a zipped file with everything you need.  They also provide instruction on how to use [Babel](https://babeljs.io/) as a transpiler if you plan on using ES2015.
@@ -58,10 +62,10 @@ The [React website](https://facebook.github.io/react/index.html) has a great [ge
 Besides this official getting started guide, there are many free, online resources that can help you to quickly get started on using React in your project.
 
 #### Additional Resources
-[React site](https://facebook.github.io/react/index.html)
-[React GitHub](https://github.com/facebook/react)
-[Flux site](https://facebook.github.io/flux/)
-[Babel](https://babeljs.io/)
-[6 Reasons Why We Love React.js](https://www.syncano.io/blog/reactjs-reasons-why-part-1/)
-[Getting Started with React.js](https://www.syncano.io/blog/getting-started-reactjs-tutorial/)
-[An Introduction to React.js](http://www.instrument.com/latest/an-introduction-to-react-js)
+* [React site](https://facebook.github.io/react/index.html)
+* [React GitHub](https://github.com/facebook/react)
+* [Flux site](https://facebook.github.io/flux/)
+* [Babel](https://babeljs.io/)
+* [6 Reasons Why We Love React.js](https://www.syncano.io/blog/reactjs-reasons-why-part-1/)
+* [Getting Started with React.js](https://www.syncano.io/blog/getting-started-reactjs-tutorial/)
+* [An Introduction to React.js](http://www.instrument.com/latest/an-introduction-to-react-js)
