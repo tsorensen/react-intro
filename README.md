@@ -64,6 +64,8 @@ Besides this official getting started guide, there are many free, online resourc
 * [React site](https://facebook.github.io/react/index.html)
 * [React GitHub](https://github.com/facebook/react)
 * [Flux site](https://facebook.github.io/flux/)
+* [Dev Tools - Chrome extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Dev Tools - Mozilla add-on](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 * [Babel](https://babeljs.io/)
 * [6 Reasons Why We Love React.js](https://www.syncano.io/blog/reactjs-reasons-why-part-1/)
 * [Getting Started with React.js](https://www.syncano.io/blog/getting-started-reactjs-tutorial/)
